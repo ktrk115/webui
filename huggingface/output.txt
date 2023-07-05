@@ -1,0 +1,22 @@
+webui-7k: 7000 pages, 81 duplicates
+	1 val conflicts: ['1656122331438']
+	0 test conflicts: []
+
+webui-7kbal: 7000 pages, 0 duplicates
+	161 val conflicts: ['1655904998632', '1655907336831', '1655908297251']
+	310 test conflicts: ['1655886594268', '1655896083515', '1655898116356']
+
+webui-70k: 70000 pages, 9781 duplicates
+	1 val conflicts: ['1656122331438']
+	1 test conflicts: ['1655983986183']
+
+webui-350k: 350000 pages, 9792 duplicates
+	6015 val conflicts: ['1655885015127', '1655885937352', '1655886101610']
+	11987 test conflicts: ['1655885042728', '1655885059050', '1655885620618']
+
+webui-val: 7281 pages, 0 duplicates
+	0 test conflicts: []
+
+webui-test: 14543 pages, 0 duplicates
+	0 val conflicts: []
+
